@@ -6,6 +6,8 @@ channels:
   - defaults
 dependencies:
   - fs
+  -pandas
+  -os
   - jupyter
   - jupyterlab
   - pathlib
