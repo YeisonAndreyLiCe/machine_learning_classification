@@ -1,10 +1,10 @@
-# data_science_platzi_projects 
+# Range of Attemps
 
 By: yliscanoc.
 
 Version: 0.1.0
 
-this is the first template I'm using in ds
+source: []()
 
 ## Prerequisites
 
