@@ -7,10 +7,7 @@ Version: 0.1.0
 source: source: [Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/practice-problem-recommendation-engine/#ProblemStatement)
 
 ## Video Tutorial (cleaning Process)
-<a href="https://youtu.be/wKXctcdKGu4">See the video</a>
-<div>
-<iframe width="420" height="315" src="https://youtu.be/wKXctcdKGu4"></iframe>
-</div>
+<a href="https://youtu.be/wKXctcdKGu4" target="_blank">See the video</a>
 
 ## Project organization
 
