@@ -4,26 +4,9 @@ By: yliscanoc.
 
 Version: 0.1.0
 
-this is the first template I'm using in ds
 
-## Prerequisites
-
-- [Anaconda](https://www.anaconda.com/download/) >=4.x
-- Optional [Mamba](https://mamba.readthedocs.io/en/latest/)
-
-## Create environment
-
-```bash
-conda env create -f environment.yml
-activate data_science_platzi_projects
-```
-
-or 
-
-```bash
-mamba env create -f environment.yml
-activate data_science_platzi_projects
-```
+## Video Tutorial (cleaning Process)
+![Vide tutorial 1](https://youtu.be/wKXctcdKGu4)
 
 ## Project organization
 
@@ -41,6 +24,3 @@ activate data_science_platzi_projects
         ├── environment.yml    <- The requirements file for reproducing the analysis environment.
         │
         └── README.md          <- The top-level README for developers using this project.
-
----
-Project created for demonstration purposes for the course "[Personalización Avanzada de Entorno para ciencia de Datos]()" by [Platzi](https://platzi.com/) - [@jvelezmagic](https://jvelezmagic.com/).
