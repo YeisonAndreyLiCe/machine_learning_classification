@@ -139,3 +139,9 @@ cython_debug/
 
 # Exclude data from source control by default
 /data/
+notebooks/models_implementation (1).ipynb
+notebooks/models_implementation.ipynb
+notebooks/load_datasets.ipynb
+.gitignore.swp
+
+
