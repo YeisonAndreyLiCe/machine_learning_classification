@@ -144,3 +144,4 @@ notebooks/models_implementation.ipynb
 notebooks/load_datasets.ipynb
 .gitignore.swp
 notebooks/missing_values.ipynb
+notebooks/visualizations.ipynb
